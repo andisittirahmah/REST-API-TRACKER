@@ -1,0 +1,26 @@
+[
+  {
+    "title": "gojek",
+    "nominal": 20000,
+    "type": "expanse",
+    "category": "transport",
+    "date": "2024-06-28T11:52:42.054Z",
+    "id": 1
+  },
+  {
+    "title": "gojek",
+    "nominal": 10000,
+    "type": "expanse",
+    "category": "transport",
+    "date": "2024-06-29T11:52:42.054Z",
+    "id": 1
+  },
+  {
+    "title": "gojek",
+    "nominal": 100000,
+    "type": "expanse",
+    "category": "transport",
+    "date": "2024-06-30T11:52:42.054Z",
+    "id": 1
+  }
+]
